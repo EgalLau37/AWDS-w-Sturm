@@ -5,7 +5,7 @@ Advance Wars- Dual Strike w/ Sturm
 	[Discord:			https://discord.gg/dgPHASWY3G (Server of Actual_Krys "Actual_Discord")]
 	[Youtube:			https://www.youtube.com/channel/UCkNo0SdGvbo-iRnNrKnftIQ ]
 
-Current Version: (1.8.6) {12/08/2024}
+Current Version: (1.8.7) {01/04/2025}
 Current overview:
 	♦Adds Sturm as a playable CO
 		♪Unlocked by completing Hard campaign with an S rank
@@ -50,6 +50,7 @@ To-do:
 	☼Give Sturm an actual meteor
 	☼Display graphics for multi-tile terrain in Mapedit mode
 	☼Full-body graphics for the soldiers
+	☼Polish secondary weapon up-point animations
 
 Credits:
 	♪Xenesis - 		Super Force Ranks skills
@@ -73,15 +74,18 @@ Known bugs/issues:
 	-campaign map names overflow in Versus mode
 	-combat mode stars are incorrect
 	-some graphics are missing/overlap during CO select when there are four players
+	-opening the damage chart causes the mini-box graphics to glitch out graphically
+
 
 
 
 
 
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Fourty-ninth release (1.8.7) {??/??/2024} [bugfix release]:
+Fourty-ninth release (1.8.7) {01/04/2025} [bugfix release]:
 
 Changelog:
+	→implemented an on-map unit damage chart
 	→added unique sprites for Megatank for battle animations for each other faction
 	→added new animations for Mech firing primary weapons at enemies at lower elevations
 	→added missing animations for Recon, Tank, and Medium Tank for firing secondary weapons against elevated enemies
