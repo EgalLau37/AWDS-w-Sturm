@@ -82,7 +82,23 @@ Known bugs/issues:
 
 
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Fourty-ninth release (1.8.7) {01/04/2025} [bugfix release]:
+Fifty-first release (1.8.8) {01/26/2025} [bugfix release]:
+
+Changelog:
+	→changed title screen graphic to match game name
+	→the game now skips the intro animation on boot-up
+	→the game now skips the "Nintendo" and "Nintendo Presents/Developed by Intelligent Systems" screens
+	
+Bugfixes:
+	→fixed Sasha granting +10% income instead of +100
+	→fixed missing pixels in Flak's negative battle reaction
+	→fixed inconsistencies in Jugger's graphics
+	→fixed Jake losing some hair when upset in battle animations (alternate outfit)
+	→fixed Kindle (alt) missing one line of pixels/Jugger (alt) having an extra line of pixels during Tag intro
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Fiftieth release (1.8.7) {01/04/2025} [bugfix release]:
 
 Changelog:
 	→implemented an on-map unit damage chart
