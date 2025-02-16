@@ -14,6 +14,9 @@ Changelog:
 	→the top-screen info sprite for Black Hole Stealth has been updated to closer reflect its appearance during battle animations 
 	→added a third page to the Versus manual (CPU-only matches)
 
+Bugfixes:
+	→fixed select graphic for random CO
+
 
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Fifty-first release (1.8.8) {01/26/2025} [bugfix release]:
