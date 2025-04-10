@@ -1,4 +1,17 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Fifty-third release (1.9.0) {04/10/2025} [bugfix release]:
+
+Changelog:
+	→changed maximum custom unit cap to 63
+	
+Bugfixes:
+	→fixed invalid map name for Danger Pool
+	→fixed incorrect map filename for Lash Land
+	→fixed incorrect CO power determination for Eagle
+	→fixed incorrect unit caps outside of Versus mode
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Fifty-second release (1.8.9) {02/16/2025} [feature release]:
 
 Changelog:
