@@ -9,6 +9,7 @@ Changelog:
 Bugfixes:
 	→fixed the unit damage chart breaking the terrain mini-box graphics
 	→fixed inconsistent tag stars between Sami and Sonja
+	→fixed certain SFX being silent during battle animations
 
 
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
