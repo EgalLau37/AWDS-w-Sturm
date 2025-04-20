@@ -1,9 +1,22 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Fifty-third release (1.9.1) {04/20/2025} [bugfix release]:
+
+Changelog:
+	→changed first-strike animations: the attacking side enters but the defender plays the attacking animation first
+	→added damage boxes for the low and high luck roll ranges
+	→added a third page to the damage chart
+
+Bugfixes:
+	→fixed the unit damage chart breaking the terrain mini-box graphics
+	→fixed inconsistent tag stars between Sami and Sonja
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Fifty-third release (1.9.0) {04/10/2025} [bugfix release]:
 
 Changelog:
 	→changed maximum custom unit cap to 63
-	
+
 Bugfixes:
 	→fixed invalid map name for Danger Pool
 	→fixed incorrect map filename for Lash Land
