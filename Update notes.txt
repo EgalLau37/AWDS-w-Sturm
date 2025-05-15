@@ -1,5 +1,16 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Fifty-third release (1.9.1) {04/20/2025} [bugfix release]:
+Fifty-fifth release (1.9.2) {05/15/2025} [bugfix release]:
+
+Changelog:
+	→the damage indicator boxes now change color based on the potential damage recieved
+
+Bugfixes:
+	→fixed game crash on The Final Front
+	→fixed missing assets for Black Hole Stealth
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Fifty-fourth release (1.9.1) {04/20/2025} [bugfix release]:
 
 Changelog:
 	→changed first-strike animations: the attacking side enters but the defender plays the attacking animation first
