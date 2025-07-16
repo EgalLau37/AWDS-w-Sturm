@@ -13,7 +13,8 @@ Changelog:
 	→added on-screen buttons on Teams screen for the X/Y/L/R buttons
 	→added two War Room maps to the DS category
 	→added corresponding AI for enemy units for all the AW1 campaign maps
-	
+	→added two additional pages to the faction results screen to display faction data for the secondary front
+
 Bugfixes:
 	→fixed missing unit dispos for Bundle City that caused the game to hang
 	→fixed typos that indicated that there were only two pages in the Versus manual
