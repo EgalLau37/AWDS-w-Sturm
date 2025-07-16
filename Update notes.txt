@@ -1,4 +1,29 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Fifty-eighth release (1.9.5) {07/16/2025} [System upgrade Δ]:
+
+Changelog:
+	→added a setup flag 0x20(32) which turns the unit that captures a neutral lab into another unit
+	→added a setup flag 0x10(16) which allows joining onto units at 10 HP
+	→added an extra Versus Rules parameter for the unit to upgrade into if setup flag 0x20 is enabled
+	→added extra page to Versus manual which contains a list of unit IDs
+	→ported the PVP maps from Dual Strike+ and added the corresponding categories for Versus map select
+	→Design map maps now display the actual map instead of a placeholder graphic in the map select screen
+	→Design map maps now display property counts on the map select screen
+	→added on-screen buttons on Rules screen for the X/Y/L/R buttons
+	→added on-screen buttons on Teams screen for the X/Y/L/R buttons
+	→added two War Room maps to the DS category
+	→added corresponding AI for enemy units for all the AW1 campaign maps
+	
+Bugfixes:
+	→fixed missing unit dispos for Bundle City that caused the game to hang
+	→fixed typos that indicated that there were only two pages in the Versus manual
+	→fixed hard mode flag and custom unit cap not saving
+	→fixed AI being able to purchase Black Boats if AW1/AW2 unit lists are enforced
+	→fixed AI being able to purchase Black Bombs if AW1/AW2 unit lists are enforced
+	→fixed setup flags tens digit not appearing if it is equal to 0 while there are three digits
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Fifty-seventh release (1.9.4) {05/30/2025} [bugfix release]:
 
 Changelog:
