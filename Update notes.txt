@@ -1,4 +1,22 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Fifty-ninth release (1.9.6) {09/13/2025} [bugfix release]:
+
+Changelog:
+	→tweaked Jake's Super CO power description to specify land vehicles
+
+Bugfixes:
+	→fixed maximizing Unit cap also maximizing Lab unit rule parameter value
+	→fixed Initial CO meter cost percentage wrapping up to 120 instead of 100
+	→fixed unit cap being set to 1 during Sandstorm
+	→fixed CO power music not playing when resuming a match while CO power is active
+	→fixed clone flag applying to No CO in standard Versus CO select menu
+	→fixed AI being able to use Super CO power even if it is not enabled
+	→disabled map "Enemy Enemy" from appearing in Versus map select
+	→fixed conflict between Send commands and custom unit cap
+	→fixed game crash when attempting to highlight a map past the first map select page
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Fifty-eighth release (1.9.5) {07/16/2025} [System upgrade Δ]:
 
 Changelog:
