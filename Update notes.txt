@@ -1,4 +1,17 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Sixty-first release (1.9.9) {11/05/2025} [bugfix release]:
+
+Bugfixes:
+	→fixed issues related to Sand
+	→fixed random CO option not selecting COs with IDs higher than 0xF
+	→fixed tiling errors on Wings of Victory (s)
+	→fixed tiling errors on The Final Battle
+	→fixed tiling errors on Linked Cubes
+	→fixed Random CO changing to default COs upon entry into Versus mode
+	→fixed 2 COs (vanilla) and Deployed category labels being swapped
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Sixty-first release (1.9.8) {10/22/2025} [bugfix release]:
 
 Changelog:
