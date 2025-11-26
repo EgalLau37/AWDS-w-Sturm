@@ -1,5 +1,27 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Sixty-first release (1.9.9) {11/05/2025} [bugfix release]:
+Sixty-third release (1.10.0) {11/26/2025} [bugfix release]:
+
+Changelog:
+	→unit sprites on the top-screen now face a direction according to the team ID
+	→added a sound effect for cycling through units with the L button
+	→the L button cycling can now cycle through units from any faction depending on which unit the cursor is on
+	→adjusted the top-screen terrain star display to now correctly display up to 15 stars
+
+Bugfixes:
+	→fixed No Visuals always playing capture animations
+	→fixed player/CPU and Team not saving properly in Versus
+	→fixed tiling error in Danger Zone
+	→fixed missing units in POW Rescue
+	→fixed crash related to Versus map selection
+	→fixed CO select page toggle buttons not re-appearing when selecting/cancelling a CO selection
+	→fixed damage indicator displaying the previous color for a couple frames
+	→fixed damage indicator displaying the previous color for attacking tiles
+	→fixed out-of-bounds Infantry in First Step
+	→fixed the mini-map on the CO select screen displaying garbage map data for Design Map maps
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Sixty-second release (1.9.9) {11/05/2025} [bugfix release]:
 
 Bugfixes:
 	→fixed issues related to Sand
