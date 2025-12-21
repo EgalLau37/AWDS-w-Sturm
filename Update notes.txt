@@ -1,10 +1,42 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Sixty-fourth release (1.10.1) {12/21/2025} [bugfix release]:
+
+Changelog:
+	→Oozium are now immune to Lash's Laser and the Death Ray
+	→ported the AW2 mini-box terrain graphic icon for Lash's Laser
+	→replaced the mini-box terrain graphic icon for Death Ray with the AW2 version
+	→added mini-box terrain name for Lash's Laser
+	→changed the mini-box terrain names for several tiles to spell out the entire word
+	→added different sound effect for attempting to cycle through units when there are no units to cycle through
+	→updated the score saving and interpretation routines for campaign scores
+	→changed the save score structure for campaign mode scores
+	→changed the save score structure for survival mode scores
+	→changed the save score structure for war room mode scores
+
+Bugfixes:
+	→fixed oversight that caused the L button to not cycle to the HQ correctly
+	→fixed Lash's Laser allowing HP to underflow when dealing damage
+	→fixed bug that caused the AI to overwrite important calculation-related values, potentially corrupting the map
+	→fixed missing unit data for map Time Digging
+	→fixed Empowerer also doubling Olaf's +20% attack boost in snow
+	→removed map Enemy Enemy from the map list
+	→fixed tiling errors in A Hero's Farewell
+	→fixed tiling error in Icy Retreat
+	→fixed incorrect portrait in map event in Dark Ambition
+	→fixed the detonation of the weather device causing fog of war in Dark Ambition
+	→fixed the random CO option rolling twice for DS battles
+	→fixed game immediately loading no more units if the unit cap is hit during match setup
+	→fixed incorrect portrait in map event in Ring of Fire
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Sixty-third release (1.10.0) {11/26/2025} [bugfix release]:
 
 Changelog:
 	→unit sprites on the top-screen now face a direction according to the team ID
 	→added a sound effect for cycling through units with the L button
 	→the L button cycling can now cycle through units from any faction depending on which unit the cursor is on
+	→tweaked the position of the CO windows on the CO select screen for four-player matches
 	→adjusted the top-screen terrain star display to now correctly display up to 15 stars
 
 Bugfixes:
