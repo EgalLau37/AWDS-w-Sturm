@@ -1,3 +1,10 @@
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Sixty-seventh release (1.10.13) {12/26/2025} [bugfix release]:
+
+Bugfixes:
+	→fixed bug that caused the game to crash when attempting to load the unit purchase list in Campaign mode
+	→fixed oversight that caused the game to crash when attempting to load Hachi's shop text
+
 
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Sixty-sixth release (1.10.12) {12/24/2025} [bugfix release]:
