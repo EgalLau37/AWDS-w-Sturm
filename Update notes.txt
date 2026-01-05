@@ -1,5 +1,5 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Sixty-eighth release (1.10.2) {01/02/2026} [minor system update]:
+Sixty-eighth release (1.10.2) {01/02/2026} [mini system update]:
 
 Changelog:
 	→the dialogue talk windows are now different colors based on the faction of the CO
