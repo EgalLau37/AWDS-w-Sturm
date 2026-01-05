@@ -1,4 +1,21 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Sixty-eighth release (1.10.2) {01/02/2026} [minor system update]:
+
+Changelog:
+	→the dialogue talk windows are now different colors based on the faction of the CO
+	→added titles to the damage chart to indicate what type of data is being displayed
+	→changed firepower, defense, range, vision adjustment checks to correctly account for level flags
+	→(AI production profiles are now stored in external files)
+	→tiles and units are now animated in the Design room
+		☼inventions now appear correctly in the design room
+
+Bugfixes:
+	→fixed campaign mode scores not saving or being interpreted correctly
+	→fixed some issues relating to AI unit and production profiles
+	→fixed Missiles in Naval Clash! (A) starting with paralyze status
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Sixty-seventh release (1.10.13) {12/26/2025} [bugfix release]:
 
 Bugfixes:
