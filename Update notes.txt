@@ -1,5 +1,42 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Sixty-eighth release (1.10.2) {01/02/2026} [mini system update]:
+Sixty-ninth release (1.10.3) {01/18/2026} [mini system update]:
+
+Changelog:
+	→the following now correctly apply based on level flags:
+		☼positive/negative luck rolls
+		☼Com tower attack/defense boosts
+		☼firepower from terrain boosts
+		☼unit costs
+		☼additional HP repair boosts
+		☼counter-attack bonus
+		☼capture boosts
+	→the unit stats page of the CO Info screen now displays both movement and range up to +/-9
+	→increased window size for the unit chart
+	→added ability to scroll the worldmap
+		☼hold Select to scroll 4x faster
+	→added ability to manually bring up the save prompt while on the worldmap
+	→pressing Select on the Versus Rules parameters screen now randomizes most parameters
+
+Bugfixes:
+	→fixed game crash relating to the factory on map Great Sea Battle
+	→fixed Versus faction data being incorrect upon starting a new save
+	→fixed font color during Epilogue making dialogue unreadable
+	→fixed random AI Versus rule parameter causing game crash
+	→fixed damage chart not displaying unit pointer
+	→fixed a few force rank skills missing text descriptions
+	→fixed versus faction-related data not saving properly
+	→fixed CO IDs being incorrect in certain situations in Versus mode
+	→fixed missing AI profile for Lash in Tag Battle
+	→fixed Green Earth Artillery using a Blue Moon soldier sprite while being destroyed
+	→fixed tiling error in Enigma!
+	→fixed tiling error in Border Skirmish (h)
+	→fixed certain AW2 campaign maps using the normal unit placement instead of hard
+	→fixed tiling error in Test of Time (h)
+	→fixed tiling error in Navy vs. Air (h)
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Sixty-eighth release (1.10.2) {01/05/2026} [mini system update]:
 
 Changelog:
 	→the dialogue talk windows are now different colors based on the faction of the CO
