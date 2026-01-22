@@ -1,4 +1,19 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Seventieth release (1.10.35) {01/21/2026} [bugfix update]:
+
+Changelog:
+	→changed Plains background for normal tileset in battle animations to look smoother
+	
+Bugfixes:
+	→fixed animations disabling when re-entering the main map from name entry in Design Maps
+	→fixed tiling error in The Final Battle
+	→fixed Death Ray firing at a width of four instead of three
+	→fixed tiling error in Sunrise
+	→fixed Empowerer incorrectly doubling unit damage when calculating the base damage adder skills
+	→fixed oversight that caused the War Room score display to display the (actual score-1) if more than 255 points were earned
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Seventieth release (1.10.31) {01/18/2026} [bugfix update]:
 
 Bugfixes:
