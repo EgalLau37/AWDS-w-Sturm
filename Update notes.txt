@@ -1,4 +1,15 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Seventy-second release (1.10.5) {01/23/2026} [bugfix update]:
+
+Changelog:
+	→shifted Sturm's Sound Room entry
+	→changed which COs appear for different Sound Room entries
+
+Bugfixes:
+	→fixed missing texts in Sound Room
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Seventieth release (1.10.35) {01/21/2026} [bugfix update]:
 
 Changelog:
