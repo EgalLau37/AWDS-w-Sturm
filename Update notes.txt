@@ -1,11 +1,8 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Seventy-second release (1.10.5) {01/23/2026} [bugfix update]:
-
-Changelog:
-	→shifted Sturm's Sound Room entry
-	→changed which COs appear for different Sound Room entries
+Seventy-third release (1.10.36) {01/23/2026} [bugfix update]:
 
 Bugfixes:
+	→fixed Von Bolt granting positive luck to opponents
 	→fixed missing texts in Sound Room
 
 
