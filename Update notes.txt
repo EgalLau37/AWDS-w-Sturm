@@ -1,4 +1,40 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Seventy-fourth release (1.11.0) {02/07/2026} [update update]:
+
+Changelog:
+	→shifted Sturm's Sound Room entry
+	→changed which COs appear for different Sound Room entries
+	→when removing/deleting a unit, the entirety of that unit's data is cleared
+	→the map no longer scrolls when the player moves the cursor around the map if the map is sufficiently small
+	→the map no longer scrolls when a unit moves if the map is sufficiently small
+	→the camera now scrolls such that the map is centered on-screen at match start if the map is sufficiently small
+	→lifted the hardcoded movement cap from 11 to 30
+	→tweaked the animation for Meteor Strike
+	→reworked the targeting for Meteor Strike to more closely resemble its targeting mechanics from AW1/AW2
+	→reworked the routine for starting/previous cursor coordinates
+	→tweaked position of the TAG POWER graphic on the top screen
+	→the Laser now plays a placeholder animation and is processed normally
+	→the Death Ray now plays a placeholder animation and is processed normally
+	→the Death Ray no longer damages Black Hole units
+	→the Laser now fires every two turns instead of every turn
+	→fixed day-to-day abilities being disabled during some early campaign missions
+	→Rachel's units are now actually on loan from Blue Moon in Jake's Trial
+
+Bugfixes:
+	→fixed oversight where the unique talk window dialogue code failed to account for clones
+	→fixed incorect CO data for the commanding soldiers
+	→fixed map Eiffel Tower having a pointer to unit data that it should not have
+	→attempted to fix oddities with two-front battles regarding turn transitions between fronts
+	→fixed power status display on the top-screen being incorrect for DS battles
+	→fixed bug that caused the Scoreboard menu command check to incorrectly overwrite the description box text
+	→fixed oversight where incorrect data was being read for Daycount and Property counts when transitioning into the Rules parameters screen
+	→fixed game crash when attempting to attack a tile
+	→fixed game crash when attempting to enter Hachi's shop in under certain circumstances
+	→fixed Von Bolt's Super CO power repairing his units HP
+	→fixed oversight that caused AI situation profile data overwriting Versus map select data
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Seventy-third release (1.10.36) {01/23/2026} [bugfix update]:
 
 Bugfixes:
