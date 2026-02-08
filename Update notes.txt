@@ -1,5 +1,15 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Seventy-fourth release (1.11.0) {02/07/2026} [update update]:
+Seventy-sixth release (1.11.01) {02/08/2026} [bugfix update]:
+
+Changelog:
+	→changed Sturm's theme to Actual_Krys's Dual Strike version
+
+Bugfixes:
+	→fixed oversight that caused unit meter values to be calculated incorrectly
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Seventy-fifth release (1.11.0) {02/07/2026} [update update]:
 
 Changelog:
 	→shifted Sturm's Sound Room entry
@@ -17,7 +27,6 @@ Changelog:
 	→the Death Ray now plays a placeholder animation and is processed normally
 	→the Death Ray no longer damages Black Hole units
 	→the Laser now fires every two turns instead of every turn
-	→fixed day-to-day abilities being disabled during some early campaign missions
 	→Rachel's units are now actually on loan from Blue Moon in Jake's Trial
 
 Bugfixes:
@@ -30,7 +39,8 @@ Bugfixes:
 	→fixed oversight where incorrect data was being read for Daycount and Property counts when transitioning into the Rules parameters screen
 	→fixed game crash when attempting to attack a tile
 	→fixed game crash when attempting to enter Hachi's shop in under certain circumstances
-	→fixed Von Bolt's Super CO power repairing his units HP
+	→fixed day-to-day abilities being disabled during some early campaign missions
+	→fixed Von Bolt's Super CO power repairing his units' HP
 	→fixed oversight that caused AI situation profile data overwriting Versus map select data
 
 
