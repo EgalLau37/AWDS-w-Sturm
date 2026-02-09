@@ -4,7 +4,7 @@ Advance Wars- Dual Strike w/ Sturm
 	[Discord:			https://discord.gg/dgPHASWY3G (Server of Actual_Krys "Actual_Discord")]
 	[Youtube:			https://www.youtube.com/channel/UCkNo0SdGvbo-iRnNrKnftIQ ]
 
-Current Version: (1.8.6) {12/08/2024}
+Current Version: (1.11.01) {02/06/2026}
 Current overview:
 	♦Adds Sturm as a playable CO
 		♪Unlocked by completing Hard campaign with an S rank
@@ -53,5 +53,8 @@ To-do:
 Credits:
 	♪Xenesis - 		Super Force Ranks skills
 	♪RadioTails -	Extra overlay code for freespace
-	♪Actual_Krys -	Base graphics for Sturm (alternate)
+	♪Actual_Krys -	Base graphics for Sturm (alternate), 
+	♪AWBW - PVP maps
 	♪Sturm Magma Ocean - New custom graphics for Sturm + new palettes
+
+
