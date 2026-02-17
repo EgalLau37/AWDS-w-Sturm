@@ -7,6 +7,7 @@ Bugfixes:
 	→fixed some incorrect movecosts
 	→fixed camera scrolling on the other front on maps that it should not
 	→fixed incorrect CO power musics playing during certain campaign missions
+	→fixed bug where attempting to retrieve CO EXP could crash the game
 
 
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
