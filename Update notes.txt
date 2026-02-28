@@ -1,4 +1,35 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Seventy-ninth release (1.11.2) {02/28/2026} [minor system update]:
+
+Changelog:
+	→funds and property counts are now hidden while on the faction transition screen
+	→changed the R Info panel on the unit stats page of the CO Info screen
+	→page 3 of the CO Info screen now diplays the tag synergy
+	→the up/down arrows on the unit results screen now properly load/unload depending on how many fronts were active
+	→added Touch Screen buttons in the Sound Room for setting the main menu and Design room background songs
+	→the narrator is no longer tied to the selected wallpaper
+	→the narrator can now be selected by toggling the arrow in the Display room
+	→when purchasing units, the game now displays a unit cost calculator
+	
+Bugfixes:
+	→fixed game hanging indefinitely during DS battles due to failing to update gameplay state correctly
+	→fixed game crash when winning a battle by route or yield
+	→fixed range modifiers on the CO Info screen not taking into account skills
+	→fixed oddities with the defense bars on the CO Info screen
+	→fixed Espionage granting enemies terrain stars instead of subtracting
+	→fixed Empowerer not applying to Espionage and Intel Leak
+	→fixed unit damage chart causing game to crash
+	→fixed typo on skills/tag page of CO Info screen
+	→fixed map names not updating properly on the unit results screen for DS matches
+	→fixed oversight in AI APC supply routine that could cause the AI to infinitely loop
+	→fixed game crash during fog of war related to top-screen faction info update
+	→replaced mini-cannons in map A New Threat with 湖 tiles
+	→fixed Kindle not receiving +3% firepower per property when activating Super CO power
+	→fixed oversight that caused unit-based starting coordinates to be incorrect
+
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Seventy-eighth release (1.11.11) {02/17/2026} [System upgrade ε]:
 
 Bugfixes:
