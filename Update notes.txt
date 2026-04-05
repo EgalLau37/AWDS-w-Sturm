@@ -1,5 +1,30 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Seventy-ninth release (1.11.2) {02/28/2026} [minor system update]:
+Seventy-ninth release (1.11.4) {04/05/2026} [minor system update]:
+
+Changelog:
+	→L/R page toggle Touch Screen buttons have been added to the unit damage chart
+	→added an option to view the numerical values for stats on the unit page of the CO Info screen
+	→the Unit chart list now displays the full HP instead of (HP/10)
+	→Touch Screen arrows have been added in the Design Room
+	→added L/R/Select buttons to the unit/terrain selection menu in the Design Room
+	→added a shuffle song feature to the Sound Room
+	→the terrain selection menu now displays a description of the currently highlighted tile in the Design Room
+	→changed the GUI button graphics that appear on the CO/Rule select screen
+	→added Touch Screen objects for faction AI during team select in Versus
+
+Bugfixes:
+	→fixed bug that caused the AI to calculate idle repair target tiles incorrectly
+	→fixed oversight that caused Black Bombs to be considered direct-attack units
+	→fixed oversight that caused Oozium to be considered direct-attack units
+	→fixed Sound Room listing missing That's a Wrap!
+	→fixed incorrect graphic on War Room map select screen
+	→fixed the save during CPU turn functionality being omitted
+	→fixed bug that caused game crash during the intro animation→fixed clones not appearing correctly when transitioning between screens during Versus CO select
+	→fixed Lander and Black Boat having direct-attack range display
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Eightieth release (1.11.3) {02/28/2026} [minor system update]:
 
 Changelog:
 	→funds and property counts are now hidden while on the faction transition screen
