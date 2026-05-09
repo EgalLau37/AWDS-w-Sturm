@@ -1,4 +1,14 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Eightieth release (1.11.5) {05/08/2026} [bugfix update]:
+
+Bugfixes:
+	→fixed incorrect tiles appearing on the third terrain menu screen in the Design Room
+	→fixed certain tiles causing the game to crash when placed in the Design Room
+	→fixed fog of war causing the game to crash in Combat mode
+	→fixed campaign scores not saving in the correct format
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Seventy-ninth release (1.11.4) {04/05/2026} [minor system update]:
 
 Changelog:
