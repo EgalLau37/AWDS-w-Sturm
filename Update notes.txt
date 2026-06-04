@@ -1,5 +1,29 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Eighty-first release (1.11.6) {05/26/2026} [System upgrade ζ]:
+Eighty-third release (1.11.7) {06/04/2026} [minor system update]:
+
+Changelog:
+	→added ability to scroll the camera during battle animations using L, R, or L+R and D-pad
+	→added ability to disable battle animations from automatically ending with the Select button
+	→the Faction Setup menu is now accessible outside Battle Setup in Versus
+	→the A button can now be used during CPU matches to open the main menu
+
+Bugfixes:
+	→fixed Force Rank skills saving incorrectly when exiting the Force Ranks screen with clones
+	→fixed tag inconsistencies between Koal/Adder
+	→fixed Switch command not working properly
+	→fixed pressing D-pad up/down on faction AI scrolling the incorrect directions
+	→fixed faction AI skipping over all-out when pressing up
+	→fixed not being able to join onto units with 10 HP with the corresponding setup flag enabled
+	→fixed auto-color routine using the back CO's sprite style instead of faction color
+	→fixed oversight that caused Force Rank skills to not bet set for CPU factions in Versus mode
+	→fixed oversight that could cause the game to crash when calculating luck
+	→fixed bug that caused the menu command descriptions for faction colors to be incorrect
+	→fixed the page toggle button not switching the skills list on the Edit Skills screen
+	→attempted to fix conflict with RAM areas resulting in incorrect data being used as skill data
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Eighty-second release (1.11.6) {05/26/2026} [System upgrade ζ]:
 
 Changelog:
 	→the Select button can now be used to toggle clone COs on the Versus CO select screen
@@ -33,7 +57,7 @@ Bugfixes:
 
 
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Eightieth release (1.11.5) {05/08/2026} [bugfix update]:
+Eighty-first release (1.11.5) {05/08/2026} [bugfix update]:
 
 Bugfixes:
 	→fixed incorrect tiles appearing on the third terrain menu screen in the Design Room
@@ -43,7 +67,7 @@ Bugfixes:
 
 
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Seventy-ninth release (1.11.4) {04/05/2026} [minor system update]:
+Eightieth release (1.11.4) {04/05/2026} [minor system update]:
 
 Changelog:
 	→L/R page toggle Touch Screen buttons have been added to the unit damage chart
@@ -68,7 +92,7 @@ Bugfixes:
 
 
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
-Eightieth release (1.11.3) {02/28/2026} [minor system update]:
+Seventy-ninth release (1.11.3) {02/28/2026} [minor system update]:
 
 Changelog:
 	→funds and property counts are now hidden while on the faction transition screen
