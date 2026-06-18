@@ -1,4 +1,27 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Eighty-fourth release (1.11.8) {06/18/2026} [System upgrade η]:
+
+Changelog:
+	→added a unique faction controller menu for Versus mode
+	→epilogue scenes can now be skipped with the Start button (skips at end of current text)
+	→changed checks related to the Versus timer to make it function more smoothly
+	→the last selected menu command is now remembered for all menu commands on all menus except the main menu
+
+Bugfixes:
+	→fixed Force Rank skills always being disabled in War Room
+	→fixed Adder having incorrect stats for CO powers
+	→fixed game crash due to incorrect filenames for movement cost files
+	→fixed unit HP on-map not being hidden if Cover Identity was equipped
+	→fixed Von Bolt using the main menu theme instead of his theme during Means to an End
+	→fixed bug that caused the Fire (Oozium) unit command check to crash the game
+	→fixed player control being active while the map was fading in after using the Load menu command
+	→fixed Load menu command causing game crash if it was used 15 times consecutively
+	→fixed Load menu command not being checked properly during campaign
+	→fixed Faction setup menu cursor defaulting to last selected command from Option menu
+	→fixed initial descriptions from the Faction setup submenus being incorrect
+
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Eighty-third release (1.11.7) {06/04/2026} [minor system update]:
 
 Changelog:
