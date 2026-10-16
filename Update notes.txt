@@ -1,4 +1,31 @@
 ↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
+Eighty-sixth release (1.11.9) {10/16/2026} [bugfix update]:
+
+Changelog:
+	→re-wrote the routine for faction auto-color
+	→battle scoring for Versus mode no longer checks for at least one ally to faction 1 surviving
+	→the game now keeps track of how many times a CO is played by player factions for history statistics
+	→battle scoring for Versus now calculates using the winning faction and all allied factions instead of all player-controlled factions
+	→the maximum amount of inventions destroyed is now capped at 15 for faction data
+	→the game now keeps track of Laser, Deathray, and Obelisk destroyed in faction data and history statistics
+	→added new History room entries for times each CO has been played
+	→changed how the game determines which coordinates to use for the Battle setup CO select screen mini-map
+	→added ability to cycle through Force Rank set letters on the Battle Setup CO Select screen in Versus mode
+	→added some compatability for Japanese, Dutch, French, Italian, Spanish
+	→unit speed, capture animation, and battle animation settings can now be set individually
+	→the L or R button can now be held to invert whether a capture/battle animation should play
+	→changed capture animations to always play during Fog of war if finishing an HQ capture
+
+Bugfixes:
+	→fixed game crash related to Oozium
+	→fixed War Room scores being interpreted as score-1 for scores above 255
+	→fixed Adder having incorrect stats during powers
+	→fixed oversight that caused the list of available units to purchase in Jake's Trial to be incorrect
+	→fixed bug where the AI would only count up to 50 of its own units for purchasing-related calculations
+	→fixed game crash when the AI attempts to buy units past the maximum due to its counting mismatch
+	
+
+↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔↔
 Eighty-fifth release (1.11.81) {06/18/2026} [bugfix update]:
 
 Bugfixes:
